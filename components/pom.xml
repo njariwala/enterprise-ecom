@@ -17,7 +17,7 @@
 
     <artifactId>enterprise-ecom-components</artifactId>
     <packaging>content-package</packaging>
-    <name>Enterprise Ecom Package</name>
+    <name>Enterprise Ecom Components Package</name>
 
     <dependencies>
         <dependency>
