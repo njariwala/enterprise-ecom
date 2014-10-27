@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="buildCount">1</entry>
+<entry key="version">1.0.RELEASE</entry>
+<entry key="dependencies" />
+<entry key="packageFormatVersion">2</entry>
+<entry key="description">Enterprise Ecom Package</entry>
+<entry key="group">Enterprise Ecom</entry>
+<entry key="name">enterprise-ecom-content</entry>
+<entry key="path">/etc/packages/Enterprise Ecom/enterprise-ecom-content-1.0.RELEASE.zip</entry>
+</properties>
