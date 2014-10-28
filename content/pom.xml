@@ -8,7 +8,7 @@
     <parent>
         <groupId>enterprise-ecom-group</groupId>
         <artifactId>enterprise-ecom</artifactId>
-        <version>1.0.RELEASE</version>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <!-- ====================================================================== -->
