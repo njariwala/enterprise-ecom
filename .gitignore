@@ -1,2 +1,3 @@
 *.vlt
 */target/**
+node_modules
