@@ -6,7 +6,7 @@ This a content package project generated using the multimodule-content-package-a
 Starting AEM 
 -------------
 
-java -jar AEM_6.0_Quickstart.jar
+java -XX:MaxPermSize=2048m -Xmx2048M   -agentlib:jdwp=transport=dt_socket,address=4512,server=y,suspend=n  -jar AEM_6.0_Quickstart.jar
 
 Building
 --------
