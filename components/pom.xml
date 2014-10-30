@@ -34,6 +34,7 @@
                 <excludes>
                     <exclude>**/.vlt</exclude>
                     <exclude>**/.vltignore</exclude>
+                    <exclude>**/node_modules/</exclude>
                 </excludes>
             </resource>
         </resources>

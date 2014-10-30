@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
     <filter root="/apps/ecom"/>
-    <filter root="/etc/designs/ecom"/>
+    <filter root="/etc/designs/ecom">
+        <exclude pattern="/etc/designs/ecom/node_modules" />
+    </filter>
 </workspaceFilter>
